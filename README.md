@@ -1,4 +1,4 @@
-# Marketplace Growth & User Behavior Analytics
+# Marketplace Growth & User Behavior Analytics 电商增长与用户行为分析项目
 
 **Project Scope**: Event Log Analysis, Funnel Optimization, User Segmentation (RF Mode)
 
