@@ -1,6 +1,5 @@
-# Shopee AP: Data Analytics Case Study - Retailrocket E-commerce Platform
+# Marketplace Growth & User Behavior Analytics
 
-**Role Target**: Data Analytics (DA) / Product Management (PM) \
 **Project Scope**: Event Log Analysis, Funnel Optimization, User Segmentation (RF Mode)
 
 ---
